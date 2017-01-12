@@ -1,1 +1,1 @@
-# algorithmtest
+该项目用于练习算法和数据结构
